@@ -1,0 +1,32 @@
+*{
+	margin:0;
+	padding:0;
+	
+}
+.signup{
+	height:100%;
+	width:100%;
+}
+.signup h2{
+	text-align:center;
+	font-size:30px;
+	color:black;
+}
+
+#form{
+	width:600px;
+	margin:50px auto;
+	background:rgba(0,0,0,0.5);
+	height:auto;
+	padding:90px;
+	
+	
+}
+input {
+	margin:none;
+	height:40px;
+	width:100%;
+	clear:both;
+	margin-top:15px;
+	border:4px;
+}

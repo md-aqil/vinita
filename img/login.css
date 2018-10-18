@@ -1,0 +1,34 @@
+*{
+	margin:0;
+	padding:0;
+	
+}
+.login{
+	height:100%;
+	width:100%;
+}
+#form{
+	width:600px;
+	margin:50px auto;
+	background:black;
+	height:auto;
+	padding:90px;
+
+	
+	
+	
+}
+#form h2{
+	color:white;
+	font-size:30px;
+	text-align:center;
+	
+}
+input {
+	margin:none;
+	height:40px;
+	width:100%;
+	clear:both;
+	margin-top:15px;
+	border:4px;
+}
