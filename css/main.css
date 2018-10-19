@@ -127,3 +127,40 @@ transition: all .4s;
 .search-box input , .search-box .btn {
 	height: 45px;
 }
+
+.form-inline {
+	margin-top: 30px;
+}
+
+.sidebar {
+	    padding: 0;
+    background: #f3f3f3;
+    min-height: 100vh;
+}
+
+.strip {
+	margin-top: 51px;
+	    background: #f3f3f3;
+	    padding: 10px;
+	    width: 100%;
+	    font-size: 18px;
+	    color: #398eaf;
+}
+
+.bsc {
+	background: linear-gradient(to bottom,#489dba 0%,#2e82a7 51%,#166d98 100%);
+	    margin-top: 50px;
+	    padding: 10px;
+	    color: #fff;
+}
+.cat-list {
+	padding: 0;
+	list-style: none;
+}
+.cat-list li a {
+	display: block;
+	color: #464646;
+	padding: 6px 15px;
+	font-size: 16px;
+	text-decoration: none;
+}
